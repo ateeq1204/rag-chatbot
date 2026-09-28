@@ -1,0 +1,13 @@
+chromadb
+posthog
+sentence-transformers
+groq
+huggingface-hub
+google-generativeai
+httpx
+python-dotenv
+streamlit
+ddgs
+posthog
+pymupdf
+torchvision
